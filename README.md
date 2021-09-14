@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <p> 🌱 I'm currently learning React while improving my JavaScript </p>
 <p> 💻 I love creating and using exciting, interactive UI features! </p>
 <p> 💬 I love meeting new people! Reach out and let's have a chat! </p>
-<p> 📫 Send me an email at merarslan9@gmail.com! </p>
+<p> 📫 Send me an email at <a>merarslan9@gmail.com</a>! </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
