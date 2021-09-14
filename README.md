@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mert-arslan9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mert-arslan9/" height="30" width="40" /></a>
 </p>
 
-🎓  I recently graduated from Le Wagon coding bootcamp, batch #700
-🌱 I'm currently learning React while improving my JavaScript
-💻 I love creating and using exciting, interactive UI features!
-💬 I love meeting new people! Reach out and let's have a chat!
-📫 Send me an email at merarslan9@gmail.com!
+<p> 🎓  I recently graduated from Le Wagon coding bootcamp, batch #700 </p>
+<p> 🌱 I'm currently learning React while improving my JavaScript </p>
+<p> 💻 I love creating and using exciting, interactive UI features! </p>
+<p> 💬 I love meeting new people! Reach out and let's have a chat! </p>
+<p> 📫 Send me an email at merarslan9@gmail.com! </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
