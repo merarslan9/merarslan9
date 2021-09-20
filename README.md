@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="left">Hi, 👋 I'm Mert!</h1>
+<h1 align="left">Hi 👋,I'm Mert!</h1>
 <h3 align="center">A front-end developer with a passion for UI/UX design from Istanbul, Turkey</h3>
 
 <h3 align="left">Connect with me:</h3>
