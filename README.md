@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mert-arslan9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mert-arslan9/" height="20" width="20" /></a>
 </p>
 
-<p> 🎓 I ama a graduate of Le Wagon coding bootcamp, batch #700 </p>
+<p> 🎓 I am a graduate of Le Wagon coding bootcamp, batch #700 </p>
 <p> 🌱 I'm currently learning React while improving my JavaScript </p>
 <p> 💻 I love creating and using exciting, interactive UI features! </p>
 <p> 💬 I love meeting new people! Reach out and let's have a chat! </p>
