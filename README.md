@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="left">Hi 👋,I'm Mert!</h1>
-<h3 align="center">A front-end developer with a passion for UI/UX design from Istanbul, Turkey</h3>
+<h3 align="center">A front-end developer with a passion for UI/UX design from Istanbul</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 </p>
 
 <p> 🎓 I am a graduate of Le Wagon coding bootcamp, batch #700 </p>
-<p> 🌱 I'm currently learning React while improving my JavaScript </p>
 <p> 💻 I love creating and using exciting, interactive UI features! </p>
 <p> 💬 I love meeting new people! Reach out and let's have a chat! </p>
 <p> 📫 Send me an email at <a>merarslan9@gmail.com</a>! </p>
